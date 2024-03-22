@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_root_view.xml.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/layout/root_view.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_channel_list_dialog.xml.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/layout/channel_list_dialog.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_channel_list_item.xml.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/layout/channel_list_item.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/73bbe2168f7b3b3c88e1dc2f6228c5ca/support-media-compat-26.0.1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/nituser/.gradle/caches/transforms-2/files-2.1/de0ea3f5e82d78bb5dd92c2c1c45550e/support-compat-26.0.1/res/layout/notification_template_part_time.xml"
+    }
+]

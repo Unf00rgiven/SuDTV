@@ -1,0 +1,18 @@
+adb connect 172.31.10.172
+cd jni - ndk-build
+abd remount
+cd ../libs/armeabi-v7a
+adb push libchal.so /system/product/lib
+adb push dtvplayer_cli /system/bin
+
+adb push file_tuner.ini /data/
+adb shell mkdir -p /data/dtvdata/
+adb push channel0.ts /data/dtvdata
+adb push channel1.ts /data/dtvdata
+
+adb
+dtvplayer_cli (in adb terminal)
+commands of dtvplayer
+
+adb shell (new terminal)
+logcat

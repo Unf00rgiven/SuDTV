@@ -1,0 +1,10 @@
+adb connect 172.31.10.172
+cd jni - ndk-build
+abd remount
+cd ../libs/armeabi-v7a
+adb push libchal.so /system/product/lib
+adb push dtvplayer_cli /system/bin
+
+adb
+dtvplayer_cli (in adb terminal)
+commands of dtvplayer

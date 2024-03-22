@@ -1,0 +1,4 @@
+#Thu Mar 21 21:50:49 CET 2024
+base.0=/home/nituser/Downloads/DtvAdvancedExam/DtvCourseTvApp_Exam/DtvCourseTvApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

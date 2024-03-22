@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DTV Course TV Input</string>
+    <string name="service_description">DTV Course TV Input Service for iWedia Comedia 3.0 Middleware
+    </string>
+    <string name="service_label">DTV Course TV Input Service</string>
+    <string name="tif_start_scan">Scan Channels</string>
+    <string name="tif_stop_scan">Stop Scan</string>
+    <string name="tif_setup_manual_start">Scan Manual</string>
+    <string name="tif_setup_finish">Finish</string>
+    <string name="tif_setup_stop">Stop</string>
+    <string name="title"
+        translatable="false">Channel Scan
+    </string>
+    <string name="availableFrontends"
+        translatable="false">Available install frontends: IP
+    </string>
+
+    <string-array name="frontend_array">
+        <item></item>
+        <item>Cable</item>
+    </string-array>
+    <string name="choose_frontend_prompt">Choose a frontend</string>
+
+    <string name="frontend_cable">Cable</string>
+    <string name="frontend_terrestrial">Terrestrial</string>
+
+    <string name="nitFrequency">Frequency [MHz]</string>
+    <string name="nitSymbolRate">Symbol rate [k bd]</string>
+    <string name="startScan">Start Scan</string>
+
+
+</resources>

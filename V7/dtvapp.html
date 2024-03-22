@@ -1,0 +1,105 @@
+<!-- To run this example, cross origin requests must be allowed.
+     Please use Chrome browser for this example.
+     Install "Allow CORS: Access-Control-Allow-Origin" Chrome extension.
+     https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en#:~:text=Allow%20CORS%3A%20Access%2DControl%2DAllow%2DOrigin%20lets%20you,default%20(in%20JavaScript%20APIs).
+     In the extension options page, set option 4 (Access-Control-Allow-Origin) to *
+     Toggle the Extension ON.
+ -->
+
+<!DOCTYPE html>
+
+<script>
+
+function playChannel(cmd, id) {
+
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+         alert(xhttp.responseText);
+
+         var video = document.getElementById("player");
+         
+         var lines = xhttp.responseText.split('\n');
+         for(var i = 0;i < lines.length;i++){
+            if (i==id-1) video.setAttribute("src", lines[i]);
+         }
+      }
+  };
+  xhttp.open("GET", "http://www.milanbjelica.info/ottmw/"+cmd, true);
+  xhttp.send();
+
+}
+
+function getChannelName(cmd, id) {
+
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+         alert(xhttp.responseText);
+
+         var div1 = document.getElementById("div1");
+         
+         div1.innerHTML = xhttp.responseText;
+         
+      }
+  };
+  xhttp.open("GET", "http://www.milanbjelica.info/ottmw/"+cmd+"/"+id, true);
+  xhttp.send();
+
+}
+
+function getLocal(cmd) {
+
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+         alert(xhttp.responseText);    
+      }
+  };
+  xhttp.open("GET", "http://localhost:1234/"+cmd, true);
+  xhttp.send();
+}
+
+
+function control() {
+   var vid = document.getElementById("player");
+
+   vid.onpause = function() {
+      alert("Video paused");
+   };
+
+   document.onkeydown = function(evt) {
+       evt = evt || window.event;
+       if (evt.keyCode == 13) {
+           vid.play();
+           alert("Video is playing...");
+       }
+       else if (evt.keyCode == 32) {
+           playChannel("servicelist/list", 3);
+           getChannelName("servicelist/get/name",3);
+           var logo = document.getElementById("logo");
+           logo.setAttribute("src", "http://www.milanbjelica.info/ottmw/servicelist/get/logo/3.png");
+       }
+   };   
+}
+
+</script>
+
+
+<html>
+<body onload="control()">
+
+<h1>DTV application starting code</h1>
+
+<div id="div1"><p>Some text</p></div>
+
+<img id="logo" width="100" height="100" src=""/>
+
+<video id="player" width="1024" controls autoplay>
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+  <source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML video.
+</video>
+
+</body>
+</html>

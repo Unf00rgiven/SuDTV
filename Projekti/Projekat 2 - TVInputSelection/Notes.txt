@@ -1,0 +1,13 @@
+posle reboot-a STB-a izvrsiti u shellu komandu:
+setenforce 0
+
+proveriti da li je comedia service uspesno pokrenut sa komandom:
+ps -A | grep iwedia
+izvrsiti komandu nekoliko puta uzastopno i videti da se pid procesa ne menja
+
+adb push privapp-permissions-tvapp.xml /system/product/etc/permissions/
+
+
+Na putanji /system/product/priv-app/ napraviti folder DtvCourseTvApp i u njega prebaciti apk od aplikacije:
+adb push DtvCourseTvApp.apk /system/product/priv-app/DtvCourseTvApp/
+

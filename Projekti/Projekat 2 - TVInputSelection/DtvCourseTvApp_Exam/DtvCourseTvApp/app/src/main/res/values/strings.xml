@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DTV_TVAPP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_tvinput_info">Press MENU to select TV Input</string>
+
+    <string name="content_blocked">BLOCKED!</string>
+    <string name="app_menu">Menu</string>
+    <string name="app_channel_list">Channel List</string>
+    <string name="app_browsable">Browsable Only</string>
+    <string name="app_number">001</string>
+    <string name="app_channel_name">Channel Name</string>
+    <string name="app_type">Type</string>
+    <string name="app_view_desc">This is a root view</string>
+
+</resources>

@@ -1,0 +1,17 @@
+The goal of this task is to implement automatic scan with list of known frequencies.
+
+Download materials from:10-dtv-basic-task-01.zip Download 10-dtv-basic-task-01.zip 
+
+- Implement a new function in dtvplayer module to support automatic scan operations.
+- This function has to go trough all previously used frequencies (482MHz, 490MHz) and perform scan operation on each of them.
+- Pay attention that there must be additional synchronization between end of scanning event for one frequency and starting scan on new frequency.
+
+Use code bellow to extend Comm module functionality:
+static const char *optString = "h?";
+static const struct option longOpts[] ={
+{ "help", no_argument, NULL, 'h' },
+{ NULL, no_argument, NULL, 0 }
+};
+Example of scan command: scan  
+
+Verify that full channel list can be acquired and firmed by using new scan command. 

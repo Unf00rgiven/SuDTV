@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.media.tv.TvView
+        android:id="@+id/tvView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </android.media.tv.TvView>
+
+    <TextView
+        android:id="@+id/content_blocked_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#f00"
+        android:text="@string/content_blocked"
+        android:textColor="#fff"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/menu_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:focusable="false"
+        android:text="@string/app_menu" />
+
+    <LinearLayout
+        android:id="@+id/channels_frame"
+        android:layout_width="400dp"
+        android:layout_height="match_parent"
+        android:background="#d333"
+        android:orientation="vertical"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_channel_list"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <include layout="@layout/channel_list_dialog" />
+    </LinearLayout>
+
+</RelativeLayout>

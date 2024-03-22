@@ -1,0 +1,2 @@
+nituser@nitiw016-lin:~$ adb shell input keyevent KEYCODE_DPAD_CENTER
+nituser@nitiw016-lin:~$ adb shell input keyevent KEYCODE_DPAD_DOWN
